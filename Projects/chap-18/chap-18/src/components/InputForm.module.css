@@ -1,0 +1,25 @@
+.form {
+    margin: auto;
+    border: 2px solid lightblue;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    width: max-content;
+    padding: 20px;
+}
+
+
+
+.inputField {
+    font-size: 25px;
+}
+
+
+.label {
+    font: 500;
+    font-size: 25px;
+}
+
+
+.header {
+    text-align: center;
+}

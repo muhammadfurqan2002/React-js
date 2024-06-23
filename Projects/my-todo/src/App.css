@@ -1,0 +1,16 @@
+
+
+button {
+    min-width: 80px;
+    max-width: 100px;
+} 
+
+.items-container {
+
+    justify-content: start;
+    /* text-align:start; */
+ }
+
+
+.kg-row{
+    margin: 10px; }
